@@ -1,5 +1,5 @@
 # Deteção e Classificação de Autoria em Texto: Humanos vs IA
-# UC: Aprendizagem Profunda (Mestrado em Inteligência Artificial) | Grupo 7 | 2025/2026**
+# UC: Aprendizagem Profunda (Mestrado em Inteligência Artificial) | Grupo 7 | 2025/2026
 
 ---
 
@@ -19,7 +19,7 @@ O objetivo deste projeto é o desenvolvimento de modelos de *Machine Learning* e
 4. Meta (Modelos Llama)
 5. Anthropic/Mistral (Modelos Claude e Mistral-7B)
 
-O projeto seguiu uma evolução progressiva, partindo de implementações manuais em **NumPy** até ao uso de **Transformers (BERT)** em **PyTorch**.
+O projeto seguiu uma evolução progressiva, partindo de implementações manuais em NumPy até ao uso de Transformers (BERT) em PyTorch.
 
 ---
 
