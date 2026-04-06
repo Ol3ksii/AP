@@ -26,7 +26,7 @@ O projeto seguiu uma evolução progressiva, partindo de implementações manuai
 ## Estrutura do Repositório
 
 O repositório está organizado de acordo com as fases de submissão e o pipeline de dados:
-
+```
 .
 ├── Dataset/                     # Gestão e construção dos dados
 │   ├── data_collection.ipynb    # Recolha inicial de múltiplas fontes (HC3, M4, etc.)
@@ -46,6 +46,7 @@ O repositório está organizado de acordo com as fases de submissão e o pipelin
 │
 ├── Relatorio_Final_G7.pdf       # Relatório técnico completo (estilo LNCS)
 └── README.md                    # Identificação e guia do repositório
+```
 
 ---
 
