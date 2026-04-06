@@ -40,8 +40,8 @@ O repositório está organizado de acordo com as fases de submissão e o pipelin
 │   ├── subm2-g7-MIA-A.ipynb     # Otimização NumPy com TF-IDF e Ensemble
 │   └── subm2-g7-MIA-B.ipynb     # Bidirectional LSTM com Max/Mean Pooling
 │
-├── Submissão_3/                 # Modelos Finais (Estado da Arte)
-│   ├── C1.ipynb                 # Fine-tuning de Transformers (BERT-base)
+├── Submissão_3/                 # Modelos Finais
+│   ├── C1.ipynb                 # Fine-tuning de Transformers (BERT)
 │   └── C2.ipynb                 # Otimização de hiperparâmetros e pesos de classe
 │
 ├── Relatorio_Final_G7.pdf       # Relatório técnico completo (estilo LNCS)
